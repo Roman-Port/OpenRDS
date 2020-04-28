@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanPort.OpenRDS", "RomanPort.OpenRDS\RomanPort.OpenRDS.csproj", "{9636F406-CF6F-4511-A78A-79592F18A1C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanPort.OpenRDSUI", "RomanPort.OpenRDSUI\RomanPort.OpenRDSUI.csproj", "{0FC337F3-7FBA-473C-82C2-90962DB1E130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9636F406-CF6F-4511-A78A-79592F18A1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9636F406-CF6F-4511-A78A-79592F18A1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9636F406-CF6F-4511-A78A-79592F18A1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9636F406-CF6F-4511-A78A-79592F18A1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC337F3-7FBA-473C-82C2-90962DB1E130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC337F3-7FBA-473C-82C2-90962DB1E130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC337F3-7FBA-473C-82C2-90962DB1E130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC337F3-7FBA-473C-82C2-90962DB1E130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {168FDB56-44C5-44C8-AAB4-655F82234231}
+	EndGlobalSection
+EndGlobal
